@@ -1,0 +1,6 @@
+Sitemap: https://lipstixxxaruba.com
+User-agent: *
+Disallow: /cgi-bin
+
+
+
