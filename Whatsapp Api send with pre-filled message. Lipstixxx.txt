@@ -1,0 +1,31 @@
+Whatsapp Api send with pre-filled message which is in the url
+
+
+https://wa.me/+2976414020?text=Hi there! Welcome to Lipstixxx Escort Aruba.%20If you need%20your%20any assistance,%20I’m always here.
+
+<script>
+(function (w, d, s, u) {
+w.gbwawc = {
+url: u,
+options: {
+        waId: "+297 6414020",
+        siteName: "Lipstixxx Escort Aruba",
+        siteTag: "The Home of The Finest Escorts",
+        siteLogo: "https://d33wubrfki0l68.cloudfront.net/a6669459d1d1f1b9d3f1492eb6c1fb3bfe282e92/a2f6f/assets/images/lipstixxx-aruba-escort-services-fav-96x96.png",
+        widgetPosition: "LEFT",
+        triggerMessage: "Escorts Available Now!",
+        welcomeMessage: "Hi there! Welcome to Lipstixxx Escort Aruba. If you need any assistance, I’m always here.",
+        brandColor: "#25D366",
+        messageText: "",
+        replyOptions: ['','',''],
+    },
+};
+var h = d.getElementsByTagName(s)[0],
+j = d.createElement(s);
+j.async = true;
+j.src = u + "/whatsapp-widget.min.js?_=" + Math.random();
+h.parentNode.insertBefore(j, h);
+})(window, document, "script", "https://waw.gallabox.com");
+</script>
+
+
